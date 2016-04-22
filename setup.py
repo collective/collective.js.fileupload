@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '9.12.3.post2'
+version = '9.12.4.dev0.dev0'
 description = 'Integration of  jQuery File Upload, an open source File Upload widget with multiple file selection, in Plone.'
 long_description = (
     open('README.rst').read() + '\n' +
