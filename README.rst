@@ -1,6 +1,6 @@
-*********************
-collective.js.videojs
-*********************
+************************
+collective.js.fileupload
+************************
 
 .. contents:: Table of Contents
 
